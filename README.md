@@ -21,6 +21,9 @@ Construido juntamente com o curso da @alura
 
 ## 🔽 Instalando
 
+- Instalar PYTHON na maquina
+- Verificar via linha de CMD a versão do PYTHON
+
 ### Clone esse respositório:
 
 ```
